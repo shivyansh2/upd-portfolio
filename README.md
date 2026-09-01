@@ -37,4 +37,4 @@ npm run build
 - Replace portfolio assets in `public/projects/`.
 - Replace `public/Shivyansh-Thakur-Resume.pdf` when the resume changes.
   
-##LIVE LINK:shivyansh.netlify.app/
+LIVE LINK: https://shivyansh.netlify.app/
