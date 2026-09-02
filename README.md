@@ -29,12 +29,4 @@ npm run dev
 npm run build
 ```
 
-
-## Main Content
-
-- Update project records in `content/projects/`.
-- Update education details in `content/education/`.
-- Replace portfolio assets in `public/projects/`.
-- Replace `public/Shivyansh-Thakur-Resume.pdf` when the resume changes.
-  
 LIVE LINK: https://shivyansh.netlify.app/
