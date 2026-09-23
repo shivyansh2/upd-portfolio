@@ -1,7 +1,5 @@
 # Shivyansh Thakur Portfolio
 
-A distinctive personal portfolio for Shivyansh Thakur, a front-end developer based in Palampur, India. The site presents selected interface work, technical skills, education, a downloadable resume, and a working contact form.
-
 ## Key Features
 
 - Responsive editorial-style landing page
