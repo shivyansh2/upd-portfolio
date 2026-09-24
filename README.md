@@ -19,12 +19,5 @@
 - Netlify Forms and Netlify deployment tooling
 - Lucide React icons
 
-## Run Locally
-
-```bash
-npm install
-npm run dev
-npm run build
-```
 
 LIVE LINK: https://shivyansh.netlify.app/
