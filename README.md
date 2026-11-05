@@ -1,5 +1,5 @@
 # Shivyansh Thakur Portfolio
-
+==========================================================
 ## Key Features
 
 - Responsive editorial-style landing page
@@ -18,6 +18,5 @@
 - Content Collections with Zod validation
 - Netlify Forms and Netlify deployment tooling
 - Lucide React icons
-
-
+===============================================================
 LIVE LINK: https://shivyansh.netlify.app/
